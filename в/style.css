@@ -1,0 +1,90 @@
+/*font-family: 'Bebas Neue', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Anek Odia', sans-serif;*/
+.h1{
+	font-family: 'Bebas Neue', cursive;
+	text-align: center;
+	padding-top: 100px;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+	background: url(https://funart.pro/uploads/posts/2020-03/1584638903_23-p-milie-anime-foni-56.png) no-repeat;
+	background-size: cover;
+}
+
+.pp{
+	margin-top: 50px;
+	font-size: 20px;
+	text-align: center;
+	font-family: 'Bebas Neue', cursive;
+}
+
+.answer__button{
+	width: 300px;
+	height: 50px;
+	padding-top: 15px;
+	margin-top: 100px;
+	font-size: 25px;
+	background-color: yellowgreen;
+	display: flex;
+	justify-content: center;
+	text-decoration: none;
+	font-family: 'Anek Odia', sans-serif;
+	border-radius: 5px;
+	transition: 0.4s;
+}
+
+.answer__button:hover{
+	opacity: 70%;
+}
+
+.answer__button a{
+	font-family: 'Anek Odia', sans-serif;
+	color: white;
+	text-decoration: none;
+}
+
+.button__out {
+	display: flex;
+	justify-content: center;
+}
+
+.button__out a{
+	text-decoration: none;
+}
+
+.out__out {
+	display: flex;
+	justify-content: center;
+}
+
+.decor a{
+	text-decoration: none;
+	color: white;
+}
+
+.body__second{
+	background: url("https://th.bing.com/th/id/R.b043953d3318abe64f8ea9743aa3c4c5?rik=yio9MXygukeKhA&riu=http%3a%2f%2fgalerey-room.ru%2fimages%2f065439_1467356079.gif&ehk=7Kq%2fJsrGXwEFDRNeFdFYHTFLnPcSfrjVQIFfQDqbefo%3d&risl=&pid=ImgRaw&r=0");
+}
+
+.second{
+}
+
+.outer{
+	font-family: 'Anek Odia', sans-serif;
+	text-align: center;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	opacity: 75%;
+}
+
+.inner{
+	background-color: white;
+
+	width: 200px;
+	margin-top: 100px;
+}
